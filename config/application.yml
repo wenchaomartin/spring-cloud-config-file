@@ -2,5 +2,5 @@
 # Config data exposed by config server
 
 info:
-  foo: bat
+  foo: balt
   someList: [2, 3, 7]
